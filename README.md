@@ -4,7 +4,8 @@ Welcome to my GitHub profile! I'm PJ Bonbon, an aspiring developer and continuou
 
 ---
  
-
+- **Visitor Count**:  
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=pjjj23)
 ---
 
 ## 📊 GitHub Stats & Streaks
@@ -64,12 +65,11 @@ Welcome to my GitHub profile! I'm PJ Bonbon, an aspiring developer and continuou
 
 ## 🖤 Fun Extras
 
-- **Visitor Count**:  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=pjjj23)
+ 
 
 - **Random Quote**:  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Inspiring Quote](https://zenquotes.io/api/random?type=horizontal&theme=dark)
 
 ---
 
-> 💬 Feel free to connect with me, collaborate, or ask me anything about tech. I'm always happy to help!
+> 💬 Feel free to connect with me, collaborate with me. Let's learn together.
