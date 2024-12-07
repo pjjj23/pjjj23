@@ -6,11 +6,7 @@ Welcome to my GitHub profile! I'm PJ Bonbon, an aspiring developer and continuou
   
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=pjjj23)
 ---
-## 🏆 Achievements
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=pjjj23&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
+ 
 ## 📊 GitHub Stats & Streaks
 
 <div align="center">
