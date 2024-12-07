@@ -1,16 +1,9 @@
 # 🌟 Hi there, si PJ diay ni! 👋
 
-Welcome to my GitHub profile! I'm PJ, a passionate developer continuously learning and building projects. Here's a snapshot of what I do:
+Welcome to my GitHub profile! I'm PJ Bonbon, an aspiring developer and continuously learning to become better. 
 
 ---
-
-## 🏆 Achievements 
-✨ **Some milestones I've unlocked:**
-- **🏔 Arctic Code Vault Contributor**
-- **🚀 Mars 2020 Contributor**
-- **💡 Galaxy Brain**
-- **🍎 Pair Extraordinaire**
-- **🌟 Starstruck**
+ 
 
 ---
 
@@ -35,7 +28,15 @@ Welcome to my GitHub profile! I'm PJ, a passionate developer continuously learni
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-%230070C0.svg?style=for-the-badge&logo=xamarin&logoColor=white)
+![Desktop Apps](https://img.shields.io/badge/Desktop%20Apps-%234A90E2.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+
 
 </div>
 
