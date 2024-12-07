@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🏆 Achievements
-
-- **🏔 Arctic Code Vault Contributor** - Your contributions have been preserved in the Arctic Vault!
-- **🚀 Mars 2020 Contributor** - Contributed to the Mars 2020 Helicopter Mission!
-- **💡 Galaxy Brain** - Opened your first issue on GitHub!
-- **🍎 Pair Extraordinaire** - Collaborated on pull requests with others!
-- **🌟 Starstruck** - Earned stars from your repositories!
+## 🏆 Achievements 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjjj23&show_icons=true&theme=radical)
 
