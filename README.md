@@ -14,6 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🏆 Achievements
+
+- **🏔 Arctic Code Vault Contributor** - Your contributions have been preserved in the Arctic Vault!
+- **🚀 Mars 2020 Contributor** - Contributed to the Mars 2020 Helicopter Mission!
+- **💡 Galaxy Brain** - Opened your first issue on GitHub!
+- **🍎 Pair Extraordinaire** - Collaborated on pull requests with others!
+- **🌟 Starstruck** - Earned stars from your repositories!
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjjj23&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+[![Trophies](https://github-profile-trophy.vercel.app/?username=pjjj23&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
