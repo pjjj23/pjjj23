@@ -6,7 +6,14 @@ Welcome to my GitHub profile! I'm PJ Bonbon, an aspiring developer and continuou
   
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=pjjj23)
 ---
+## 🏆 Achievements
 
+- ![First Pull Request](https://img.shields.io/badge/First_Pull_Request-%2300e7e7?style=flat-square&logo=github&logoColor=white)
+- ![GitHub Galaxy](https://img.shields.io/badge/GitHub_Galaxy-%2300e7e7?style=flat-square&logo=github&logoColor=white)
+- ![Pull Shark](https://img.shields.io/badge/Pull_Shark-%2300e7e7?style=flat-square&logo=github&logoColor=white)
+- ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-%2300e7e7?style=flat-square&logo=github&logoColor=white)
+
+---
 ## 📊 GitHub Stats & Streaks
 
 <div align="center">
