@@ -1,0 +1,27 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily
+  workflow_dispatch:
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate the snake
+        uses: Platane/snk@v2
+        with:
+          github_user_name: YOUR_GITHUB_USERNAME
+          outputs: dist/snake.svg
+
+      - name: Commit and push the snake
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/snake.svg
+          git commit -m "Generated snake"
+          git push
