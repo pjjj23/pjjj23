@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
 ![Contribution Snake](https://raw.githubusercontent.com/pjjj23/pjjj23/output/snake.svg)
+
