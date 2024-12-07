@@ -24,3 +24,17 @@ Here are some ideas to get you started:
 
 ![Contribution Snake](https://raw.githubusercontent.com/pjjj23/pjjj23/output/snake.svg)
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjjj23&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pjjj23&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pjjj23&theme=radical)
+
+
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=pjjj23)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+
+
+
