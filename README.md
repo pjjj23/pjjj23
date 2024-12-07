@@ -70,5 +70,6 @@ Welcome to my GitHub profile! I'm PJ Bonbon, an aspiring developer and continuou
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-
+<center> 
 > 💬 Feel free to connect with me, collaborate with me. Let's learn together.
+</center>
