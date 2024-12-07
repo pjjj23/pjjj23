@@ -67,7 +67,7 @@ Welcome to my GitHub profile! I'm PJ Bonbon, an aspiring developer and continuou
  
 
 - **Random Quote**:  
-![Inspiring Quote](https://zenquotes.io/api/random?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
