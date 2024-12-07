@@ -1,49 +1,38 @@
-## Hi there, si PJ diay ni 👋
+# 🕵️ [REDACTED]
 
-<!--
-**pjjj23/pjjj23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Ninja.png" alt="Ninja" width="25" height="25" /> Silent Operative
 
-Here are some ideas to get you started:
+> *Shadows speak louder than words...*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌑 Operational Capabilities
 
-## 🏆 Achievements 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjjj23&show_icons=true&theme=radical)
+#### Tech Arsenal
+![Static Badge](https://img.shields.io/badge/Stealth%20Languages-black?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Django](https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=white)
 
-## 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=pjjj23&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+#### Covert Metrics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjjj23&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=9370DB&text_color=7F7F7F)
 
+#### Encrypted Language Breakdown
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pjjj23&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=9370DB&text_color=7F7F7F)
 
-## 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+#### Mission Progress
+![GitHub Streak](https://github-streak-stats.herokuapp.com/?user=pjjj23&theme=midnight-purple&hide_border=true&background=000000&stroke=9370DB&ring=9370DB&fire=9370DB&currStreakNum=7F7F7F&sideNums=7F7F7F)
 
-![Contribution Snake](https://raw.githubusercontent.com/pjjj23/pjjj23/output/snake.svg)
+### 🔍 Reconnaissance
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjjj23&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pjjj23&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pjjj23&theme=radical)
+- 🥷 Currently operating in: Coding Shadows
+- 🌐 Communication Protocols: Encrypted
+- 🔬 Current Mission: Stealth Development
 
+### 🏆 Classified Achievements
 
+![Profile Trophies](https://github-profile-trophy.vercel.app/?username=pjjj23&theme=darkhub&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=pjjj23)
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 📡 Tracking Beacon
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=pjjj23&color=black&logo=github)
 
-
-
-
+*This profile is heavily encrypted. Unauthorized access is prohibited.*
