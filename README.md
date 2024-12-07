@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm PJ, a passionate developer continuously learni
 
 ## 📊 GitHub Stats & Streaks
 
-<div align="center">
+<div align="center" style="background: black">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjjj23&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pjjj23&layout=compact&theme=radical)
