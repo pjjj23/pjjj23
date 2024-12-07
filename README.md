@@ -3,8 +3,7 @@
 Welcome to my GitHub profile! I'm PJ Bonbon, an aspiring developer and continuously learning to become better. 
 
 ---
- 
-- **Visitor Count**:  
+  
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=pjjj23)
 ---
 
