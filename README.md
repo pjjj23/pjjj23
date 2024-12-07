@@ -8,10 +8,7 @@ Welcome to my GitHub profile! I'm PJ Bonbon, an aspiring developer and continuou
 ---
 ## 🏆 Achievements
 
-- ![First Pull Request](https://img.shields.io/badge/First_Pull_Request-%2300e7e7?style=flat-square&logo=github&logoColor=white)
-- ![GitHub Galaxy](https://img.shields.io/badge/GitHub_Galaxy-%2300e7e7?style=flat-square&logo=github&logoColor=white)
-- ![Pull Shark](https://img.shields.io/badge/Pull_Shark-%2300e7e7?style=flat-square&logo=github&logoColor=white)
-- ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-%2300e7e7?style=flat-square&logo=github&logoColor=white)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=pjjj23&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ## 📊 GitHub Stats & Streaks
