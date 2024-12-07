@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+![Contribution Snake](https://raw.githubusercontent.com/pjjj23/pjjj23/output/snake.svg)
