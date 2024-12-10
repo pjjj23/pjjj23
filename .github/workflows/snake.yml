@@ -2,24 +2,27 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily
-  workflow_dispatch: # Allows manual triggering
+    - cron: "0 0 * * *"  # Runs daily
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Use the latest version of the checkout action
 
       - name: Generate the snake
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3  # Use the latest version of the Platane/snk action
         with:
           github_user_name: pjjj23
-          outputs: dist/snake.svg
+          outputs: dist/snake.svg  # Correct output path
 
-      - name: Upload the snake
-        uses: actions/upload-artifact@v3
-        with:
-          name: github-pages
-          path: dist/
+      - name: Commit and push snake
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          mv dist/snake.svg snake.svg  # Move the generated file to root directory
+          git add snake.svg
+          git commit -m "Update contribution snake"
+          git push origin main  # Push to main branch
