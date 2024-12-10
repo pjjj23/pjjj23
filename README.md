@@ -55,8 +55,9 @@ Welcome to my GitHub profile! I'm PJ Bonbon, an aspiring developer and continuou
 ## 🐍 Contribution Snake
 
 <div align="center">
-  
-![Contribution Snake](https://raw.githubusercontent.com/pjjj23/pjjj23/output/snake.svg)
+   
+![Contribution Snake](https://raw.githubusercontent.com/pjjj23/pjjj23/main/snake.svg)
+
 
 </div>
 
