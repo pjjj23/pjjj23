@@ -72,5 +72,5 @@ Welcome to my GitHub profile! I'm PJ Bonbon, an aspiring developer and continuou
 - **Random Quote**: 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
 --- 
-
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 > 💬 Feel free to connect with me, collaborate with me. Let's learn together. 
