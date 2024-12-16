@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*mB6YLIGqIk1hTzU6Fb12zQ.gif" href="https://github.com/sp-xd" alt="Hello Coders" width="40%"/> <br> 
+<img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" href="https://github.com/sp-xd" alt="Hello Coders" width="40%"/> <br> 
 </div>
 <h1 align="center">Hi there, si PJ diay ni! 👋</h1> 
 
