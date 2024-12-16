@@ -68,10 +68,8 @@ Welcome to my GitHub profile! I'm PJ Bonbon, an aspiring developer and continuou
 
  
  
-- **Random Quote**:
-<div align="center>  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-</div>
+- **Random Quote**: 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
 --- 
 
 > 💬 Feel free to connect with me, collaborate with me. Let's learn together. 
