@@ -1,5 +1,5 @@
 <div align="center">
-![Banner](https://i.pinimg.com/originals/42/36/d0/4236d00b6df31c5c1dab3566fa61ff3c.gif)
+![Banner](https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif)
 </div>
 <br>
 <h1 align="center">Hi there, si PJ diay ni! 👋</h1>
