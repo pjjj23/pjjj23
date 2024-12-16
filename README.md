@@ -1,6 +1,6 @@
  
 ![Banner](https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif)  
-<h1 align="center">Hi there, si PJ diay ni! 👋</h1>
+<h1 align="center">Hi there, si PJ diay ni! 👋</h1><img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
 Welcome to my GitHub profile! I'm PJ Bonbon, an aspiring developer and continuously learning to become better. 
 
@@ -72,5 +72,4 @@ Welcome to my GitHub profile! I'm PJ Bonbon, an aspiring developer and continuou
 - **Random Quote**: 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
 --- 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-> 💬 Feel free to connect with me, collaborate with me. Let's learn together. 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> 
