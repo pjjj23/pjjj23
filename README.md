@@ -1,5 +1,5 @@
  
-# Hi there, si PJ diay ni! 👋
+<h1 align="center">Hi there, si PJ diay ni! 👋</h1>
 
 Welcome to my GitHub profile! I'm PJ Bonbon, an aspiring developer and continuously learning to become better. 
 
