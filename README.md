@@ -1,3 +1,4 @@
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 <div align="center">
 <img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" href="https://github.com/sp-xd" alt="Hello Coders" width="40%"/> <br> 
 </div>
