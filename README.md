@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" href="https://github.com/sp-xd" alt="Hello Coders" width="40%"/> <br> <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 </div> 
-<h1 align="center">Hi there, si PJ diay ni! 👋</h1> 
+<h1 align="center">Hi there, si PJ diay ni! 👋</h1> <br>
 
 <h5>Welcome to my GitHub profile! I'm PJ Bonbon, an aspiring developer and continuously learning to become better. </h5>
 
