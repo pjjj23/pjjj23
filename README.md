@@ -1,6 +1,6 @@
  
-![Banner](https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif)  
-<h1 align="center">Hi there, si PJ diay ni! 👋</h1><img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+![Banner](https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif)  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+<h1 align="center">Hi there, si PJ diay ni! 👋</h1> 
 
 Welcome to my GitHub profile! I'm PJ Bonbon, an aspiring developer and continuously learning to become better. 
 
