@@ -1,4 +1,4 @@
-![Banner]([https://your-new-image-url.com/new-image.png](https://media.tenor.com/hs6IuO3pDh8AAAAM/pixel-art.gif))
+![Banner](https://media.tenor.com/hs6IuO3pDh8AAAAM/pixel-art.gif)
  
 <h1 align="center">Hi there, si PJ diay ni! 👋</h1>
 
