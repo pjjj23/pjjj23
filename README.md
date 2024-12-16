@@ -1,4 +1,4 @@
- <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+ <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*mB6YLIGqIk1hTzU6Fb12zQ.gif" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br> 
 <h1 align="center">Hi there, si PJ diay ni! 👋</h1> 
 
