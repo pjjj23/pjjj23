@@ -1,5 +1,5 @@
 <div align="center">
-![Banner]([https://media.tenor.com/hs6IuO3pDh8AAAAM/pixel-art.gif](https://i.pinimg.com/originals/42/36/d0/4236d00b6df31c5c1dab3566fa61ff3c.gif))
+![Banner](https://i.pinimg.com/originals/42/36/d0/4236d00b6df31c5c1dab3566fa61ff3c.gif)
 </div>
 <br>
 <h1 align="center">Hi there, si PJ diay ni! 👋</h1>
