@@ -2,9 +2,9 @@
 <div align="center">
 <img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" href="https://github.com/sp-xd" alt="Hello Coders" width="40%"/> <br> <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 </div> 
-<h1 align="center">Hi there, si PJ diay ni! 👋</h1> <br>
+<h1 align="center">Hi there, <strong>si PJ diay ni!</strong> 👋</h1> <br>
 
-<p>Welcome to my GitHub profile! I'm Philip John Bonbon, an aspiring web developer and continuously learning to become better. </p>
+<p>Welcome to my GitHub profile! I'm <strong>Philip John Bonbon</strong>, an aspiring web developer and continuously learning to become better. </p>
 
 ---
   
