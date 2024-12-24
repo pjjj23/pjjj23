@@ -4,7 +4,7 @@
 </div> 
 <h1 align="center">Hi there, si PJ diay ni! 👋</h1> <br>
 
-<p>Welcome to my GitHub profile! I'm PJ Bonbon, an aspiring developer and continuously learning to become better. </p>
+<p>Welcome to my GitHub profile! I'm Philip John Bonbon, an aspiring web developer and continuously learning to become better. </p>
 
 ---
   
