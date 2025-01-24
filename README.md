@@ -6,6 +6,7 @@
 
 <p>Welcome to my GitHub profile! I'm <strong>Philip John Bonbon</strong>, an aspiring web developer and continuously learning to become better. </p>
 
+<p>The Core Developer of CTU AC Accredited Boarding House Project. Check this project by clicking the link:<br><a href="https://abadddy.pythonanywhere.com">CTU AC ACCREDITED BOARDING HOUSE PORTAL</a></p>
 ---
   
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=pjjj23)
