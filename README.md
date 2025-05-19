@@ -41,6 +41,11 @@
 ![Xamarin](https://img.shields.io/badge/Xamarin-%230070C0.svg?style=for-the-badge&logo=xamarin&logoColor=white)
 ![Desktop Apps](https://img.shields.io/badge/Desktop%20Apps-%234A90E2.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 
 </div>
